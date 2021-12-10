@@ -15,3 +15,5 @@ https://github.com/vaizard/mage-libvirt
 ### firecracker
 
 Check [firecracker.sh](/fireckracker/firecracker.sh)
+
+https://github.com/firecracker-microvm/firecracker/blob/main/docs/network-setup.md

@@ -1,3 +1,6 @@
+guest tools:
+
+https://www.spice-space.org/download/windows/spice-guest-tools/spice-guest-tools-latest.exe
 
 ```
 pool-define /home/kpi/extra/devel/github/virtual/kvm_configs/pool.xml

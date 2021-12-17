@@ -1,0 +1,11 @@
+<pool type='dir'>
+  <name>games_pool</name>
+  <target>
+    <path>/home/kpi/games/kvm_gpu/games_pool/</path>
+    <permissions>
+      <mode>0755</mode>
+      <owner>1000</owner>
+      <group>1000</group>
+    </permissions>
+  </target>
+</pool>
